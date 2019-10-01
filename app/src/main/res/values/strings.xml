@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LetsTryInfix</string>
+    <string name="insert_first_number">insert first number</string>
+    <string name="insert_second_number">insert second number</string>
+    <string name="calculate">calculate</string>
+    <string name="pindah_halaman">Pindah Halaman</string>
+    <string name="pindah_halaman_spesifik">pindah halaman spesifik</string>
+</resources>
